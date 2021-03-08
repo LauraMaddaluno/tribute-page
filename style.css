@@ -1,0 +1,44 @@
+body {
+    background-color: hsl(180, 90%, 45%);
+    margin: 5% 10%;
+    text-align: center;
+    height: auto;
+}
+main{
+    margin:0;
+    align-items:center ;
+    text-align: center;
+    background-color: hsl(180, 90%, 25%);
+
+}
+header{
+    font-size: 4rem; 
+}
+
+#img-div{
+    
+    padding:5% 0 ;
+}
+ img{
+    display:block;
+    max-width:100%;
+    height: auto;
+    margin: 0 auto;
+}
+figcaption{
+    margin-top: 3%;
+}
+#tribute-info{
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 5%;
+}
+a{
+    margin-top: 5%;
+    font-size: 1.5rem;
+    color: rgb(49, 15, 199);
+}
+footer{
+    padding-top: 5%;
+    text-align: left;
+}
